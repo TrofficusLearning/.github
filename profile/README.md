@@ -3,7 +3,7 @@
 ## Welcome to Trofficus Learning Organization on GitHub!
 
 <div align="center">
-  <img src="./cool_nqueens_gif.gif" alt="Your GIF" width="400">
+  <img src="cool_nqueens_gif.gif" alt="Your GIF" width="400">
 </div>
 
 
