@@ -2,6 +2,11 @@
 
 ## Welcome to Trofficus Learning Organization on GitHub!
 
+<div align="center">
+  <img src="img/cool_nqueens_gif.gif" alt="Your GIF" width="400">
+</div>
+
+
 ### About
 
 Trofficus Learning is a repository dedicated to my continuous learning journey in the vast realm of technology. Here, I'll be curating repositories related to various learning activities, ranging from exploring new programming languages to diving deep into the intricacies of Machine Learning Engineering (MLE) and MLOps frameworks. Additionally, you can also find repositories housing simulations developed using the PyGame library.
